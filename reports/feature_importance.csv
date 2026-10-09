@@ -1,0 +1,23 @@
+признак,нормализованный gain
+price_vs_ma_20,0.06400244
+volatility_5,0.063030034
+volatility_10,0.05826439
+return_mean_20,0.058049295
+return_lag_15,0.056546375
+price_vs_ma_5,0.050119124
+intraday_range_lag_1,0.04831391
+return_mean_10,0.048242643
+return_mean_60,0.046380565
+price_vs_ma_60,0.046095304
+return_lag_1,0.04594735
+return_lag_5,0.045402836
+volatility_20,0.04539526
+volume_change_lag_1,0.043298095
+volatility_60,0.042247
+return_lag_2,0.04051091
+return_mean_5,0.03947704
+weekday_sin,0.037157256
+return_lag_10,0.03472611
+return_lag_3,0.033177514
+return_lag_20,0.032815337
+weekday_cos,0.020801274
